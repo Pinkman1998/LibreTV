@@ -13,7 +13,7 @@ const PASSWORD_CONFIG = {
 // 网站信息配置
 const SITE_CONFIG = {
     name: 'KangKangTV',
-    url: 'https://libretv.is-an.org',
+    url: 'https://tv.pinkman98.top',
     description: '免费在线视频搜索与观看平台',
     logo: 'https://images.icon-icons.com/38/PNG/512/retrotv_5520.png',
     version: '1.0.3'
@@ -29,9 +29,10 @@ const API_SITES = {
         api: 'https://cj.rycjapi.com',
         name: '如意资源',
     },
-    bfzy: {
-        api: 'https://bfzyapi.com',
-        name: '暴风资源',
+    heimuer: {
+        api: 'https://json.heimuer.xyz',
+        name: '黑木耳',
+        detail: 'https://heimuer.tv',
     },
     tyyszy: {
         api: 'https://tyyszy.com',
@@ -42,11 +43,6 @@ const API_SITES = {
         name: '非凡影视',
         detail: 'http://ffzy5.tv',
     },
-    heimuer: {
-        api: 'https://json.heimuer.xyz',
-        name: '黑木耳',
-        detail: 'https://heimuer.tv',
-    },
     zy360: {
         api: 'https://360zy.com',
         name: '360资源',
@@ -54,6 +50,10 @@ const API_SITES = {
     wolong: {
         api: 'https://wolongzyw.com',
         name: '卧龙资源',
+    },
+        bfzy: {
+        api: 'https://bfzyapi.com',
+        name: '暴风资源',
     },
     hwba: {
         api: 'https://cjhwba.com',
