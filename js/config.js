@@ -22,9 +22,8 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     dyttzy: {
-        api: 'https://api.yzzy-api.com',
+        api: 'https://api.yzzy-api.com/inc/apijson.php',
         name: 'zyk优质资源',
-        detail: 'https://api.yzzy-api.com',
     },
     ruyi: {
         api: 'https://cj.rycjapi.com',
