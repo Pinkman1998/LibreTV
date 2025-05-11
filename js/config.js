@@ -12,7 +12,7 @@ const PASSWORD_CONFIG = {
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: 'LibreTV',
+    name: 'KangKangTV',
     url: 'https://libretv.is-an.org',
     description: '免费在线视频搜索与观看平台',
     logo: 'https://images.icon-icons.com/38/PNG/512/retrotv_5520.png',
@@ -22,9 +22,9 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     dyttzy: {
-        api: 'http://caiji.dyttzyapi.com',
-        name: '电影天堂资源',
-        detail: 'http://caiji.dyttzyapi.com',
+        api: 'https://api.yzzy-api.com',
+        name: 'zyk优质资源',
+        detail: 'https://api.yzzy-api.com',
     },
     ruyi: {
         api: 'https://cj.rycjapi.com',
