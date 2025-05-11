@@ -23,11 +23,11 @@ const SITE_CONFIG = {
 const API_SITES = {
     dyttzy: {
         api: 'https://api.yzzy-api.com/inc/apijson.php',
-        name: 'zyk优质资源',
+        name: '优质资源',
     },
     ruyi: {
         api: 'https://cj.rycjapi.com',
-        name: '如意资源',
+        name: '如意资源（推荐）',
     },
     heimuer: {
         api: 'https://json.heimuer.xyz',
